@@ -1081,6 +1081,14 @@ select {
   .comments-area .comment-form-url input {
     width: 100%;
   }
+
+  .site-footer .site-navigation {
+    display: none;
+  }
+
+  .site-footer p {
+    text-align: center;
+  }
 }
 
 @media (min-width: 992px) {
