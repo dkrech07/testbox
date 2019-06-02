@@ -1081,14 +1081,6 @@ select {
   .comments-area .comment-form-url input {
     width: 100%;
   }
-
-  .site-footer .site-navigation {
-    display: none;
-  }
-
-  .site-footer p {
-    text-align: center;
-  }
 }
 
 @media (min-width: 992px) {
@@ -1112,5 +1104,13 @@ select {
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
     justify-content: space-between;
+  }
+
+    .site-footer .text-left {
+    display: none;
+  }
+
+  .site-footer .text-right {
+    text-align: center;
   }
 }
