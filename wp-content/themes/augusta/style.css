@@ -722,7 +722,9 @@ blockquote {
 
 .site-footer .main-navigation ul li a {
   color: #fff;
-  font-weight: 600;
+  font-size: 0.7rem;
+  font-weight: 400;
+  vertical-align: bottom;
 }
 
 .site-footer .main-navigation ul li a:hover {
