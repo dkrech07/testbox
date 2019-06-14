@@ -1105,12 +1105,4 @@ select {
     -ms-flex-pack: justify;
     justify-content: space-between;
   }
-
-    .site-footer .text-left {
-    display: none;
-  }
-
-  .site-footer .text-right {
-    text-align: center;
-  }
 }
